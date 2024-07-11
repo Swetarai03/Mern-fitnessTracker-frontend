@@ -1,0 +1,28 @@
+.dashboard-container {
+    background-image: url('https://www.silvermistrecovery.com/wp-content/uploads/2021/10/group-of-young-people-doing-exercises-together-in-gym-stockpack-istock-scaled.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust height as needed */
+    color: #fff; /* Change text color for better contrast with background */
+    display: flex;
+    justify-content: center;
+    max-width: 100%;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  
+  .table-responsive {
+    margin-top: 20px;
+  }
+  
+  .analysis-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+  }
+  .ml-2 {
+    margin-left: 10px; /* Adjust the value as needed */
+  }
+  
